@@ -30,7 +30,7 @@ public class BasicsReview {
 		
 		System.out.println("This " + name + " has answered " + number + " questions correctly and earned a grade of " + grade);
 		
-		int dollarSign$ = 500;
+		int dollarSign$ = 600;
 //		int ampersand& = 17;
 		
 		char letter;
